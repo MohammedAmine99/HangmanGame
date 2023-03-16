@@ -1,0 +1,49 @@
+Machine learning
+Neural networks
+Deep learning
+Natural Language Processing (NLP)
+Computer vision
+Robotics
+Cognitive computing
+Expert systems
+Fuzzy logic
+Bayesian networks
+Genetic algorithms
+Reinforcement learning
+Data mining
+Predictive modeling
+Decision trees
+Clustering
+Random forest
+Gradient descent
+Support vector machines
+Convolutional neural networks
+Recurrent neural networks
+Transfer learning
+Unsupervised learning
+Supervised learning
+Semi-supervised learning
+Explainable
+AI ethics
+Bias 
+Fairness
+Transparency 
+AI safety
+Autonomous systems
+Expert systems
+Chatbots
+Virtual assistants
+Recommendation systems
+Image recognition
+Speech recognition
+Emotion recognition
+Sentiment analysis
+Anomaly detection
+Time series forecasting
+Multi-agent systems
+Swarm intelligence
+Artificial life
+
+
+
+

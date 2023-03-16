@@ -1,0 +1,27 @@
+HTML
+CSS
+JavaScript
+Responsive design
+Front-end
+Back-end 
+API
+Framework
+Bootstrap
+jQuery
+AJAX
+PHP
+MySQL
+Analytics
+Web hosting
+Secure Sockets Layer
+File Transfer Protocol
+Git
+Version control
+Debugging
+Cross-browser compatibility
+Web accessibility
+Mobile-first design
+SpringBoot
+Angular
+React
+Scalability

@@ -1,0 +1,43 @@
+Cybersecurity
+Threat
+Vulnerability
+Attack
+Malware
+Phishing
+Firewall
+Encryption
+Authentication
+Authorization
+Network security
+Cybercrime
+Cyber espionage
+Cyber terrorism
+Intrusion detection
+Risk assessment
+Penetration testing
+Patching
+Data breach
+Social engineering
+Incident response
+Digital forensics
+Ransomware
+Botnet
+Zero-day vulnerability
+Exploit
+Backdoor
+Security audit
+Security controls
+Security awareness
+Cyber insurance
+Threat intelligence
+Cyber resilience
+Cloud security
+Mobile security
+Access control
+Cyber hygiene
+Red teaming
+Blue teaming
+Incident management
+Security architecture
+
+
